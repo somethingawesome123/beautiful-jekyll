@@ -4,5 +4,5 @@ title: About me
 ---
 
 I am Prashanth. 
-I blog at [techformist.com]. I 
+I blog at [https://techformist.com].
 
