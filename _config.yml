@@ -1,6 +1,6 @@
 ---
 title: Awesomeness Overloaded
-timezone: America/Vancouver
+timezone: Pacific/Pago_Pago
 collections:
   posts:
     title: Posts
@@ -22,10 +22,11 @@ defaults:
     layout: page
     show-avatar: true
 url: https://somethingawesome123.github.io
-baseurl: ''
+baseurl: 
 description: I am awesome!
 navbar-links:
   About Me: aboutme
+  Privacy Policy: privacy-policy
 avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
