@@ -12,5 +12,5 @@ I am awesome and can bless you to heaven. Connect with me through the form below
  
  <input type="text" name="_gotcha" style="display:none"><br>
  <input type="hidden" name="_subject" value="Message via http://somethingawesome123.com">
- <input type=”submit” value=”Send”>
+ <input type="submit" value="Send">
 </form>
