@@ -27,6 +27,7 @@ description: I am awesome!
 navbar-links:
   About Me: aboutme
   Privacy Policy: privacy-policy
+  Contact: contact-me
 avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
